@@ -1,0 +1,42 @@
+{
+  "name": "demo",
+  "homepage": "http://.",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^6.3.3",
+    "moment": "^2.22.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^2.1.8",
+    "react-toastify": "^5.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "* A web chat made by ReactJS and Firebase.\r * Support login with google account, chat with any user, send text, image and sticker, update avatar and profile.\r * Try at here: https://flutterchatdemo.firebaseapp.com/\r * Watch the demo video for more clarity: https://youtu.be/kZYI-QgzplI\r * Check my general guidance to know more and how to do it: https://medium.com/@duytq94/building-web-chat-with-reactjs-and-firebase-e7f9654b661",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duytq94/reactjs-chat-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duytq94/reactjs-chat-demo/issues"
+  }
+}
